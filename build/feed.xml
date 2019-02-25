@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stello Hexis Games</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description></description>
+    <pubDate>Sun, 10 Feb 2019 20:00:00 -0400</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>KNIGHTS OF TARTARUS PRESSKIT</title>
+      <link>http://localhost:8080/articles/kot-presskit/</link>
+      <pubDate>Sun, 10 Feb 2019 20:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/kot-presskit/</guid>
+      <author></author>
+      <description>&lt;p&gt;Welcome to the Knights of Tartarus Press page. In this page you should find any info you might need to post articles or get more informed about Knights of Tartarus. If you need any additional information or would like anything provided in a different format, please let me know.
+&amp;nbsp;&lt;br&gt;&amp;nbsp;  &lt;/p&gt;
+&lt;h3 id=&quot;fact-sheet&quot;&gt;FACT SHEET&lt;/h3&gt;
+&lt;p&gt;Developer: Stello Hexis&lt;br&gt;Early Access Release : September 3, 2018&lt;br&gt;Expected Full Release: April 19, 2019
+Platforms: PC, Mac, Linux&lt;br&gt;Website: ShovelKnight.com&lt;br&gt;Price: USD $12.99&lt;br&gt;Availability: Digital Download&lt;br&gt;Languages: English&lt;br&gt;ESRB: Not rated&lt;br&gt;File Size: ~180MB&lt;br&gt;Contact: &lt;a href=&quot;mailto:stellohexis@gmail.com&quot;&gt;stellohexis@gmail.com&lt;/a&gt;&lt;br&gt;Social: &lt;a href=&quot;https://twitter.com/StelloHexis&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/channel/UCyBTig757hZx4RsS77n1G8w&quot;&gt;Youtube&lt;/a&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;  &lt;/p&gt;
+&lt;h3 id=&quot;videos&quot;&gt;VIDEOS&lt;/h3&gt;
+&lt;p&gt;Early Access Trailer:
+&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;  &lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YRwXHaolzsw?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&amp;nbsp;
+&amp;nbsp;  
+&amp;nbsp;  
+
+&lt;h3 id=&quot;screenshots&quot;&gt;SCREENSHOTS&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt; 
+  &lt;div class=&quot;column&quot;&gt;    
+    &lt;img src=&quot;scre10.png&quot;&gt;    
+    &lt;img src=&quot;scre2.png&quot;&gt;   
+    &lt;img src=&quot;scre11.png&quot;&gt;  
+    &lt;img src=&quot;scre9.png&quot;&gt;    
+  &lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt; 
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;img src=&quot;scre12.png&quot;&gt;    
+    &lt;img src=&quot;scre7.png&quot;&gt;    
+    &lt;img src=&quot;scre4.png&quot;&gt;    
+    &lt;img src=&quot;scre8.png&quot;&gt;    
+    &lt;img src=&quot;scre1.png&quot;&gt;
+  &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
